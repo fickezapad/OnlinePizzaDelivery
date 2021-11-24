@@ -2,7 +2,7 @@
 
 # Description
 
-Besides ordering food users are able to sign-up and login, contact admins, search foods they want to find and more... Admins can add new food categories as well as delete them. 
+Besides ordering food users are able to sign-up and login, contact admins, search foods they want to find. Admins can add new food categories as well as delete them etc. 
 
 ## Project SetUp
 
